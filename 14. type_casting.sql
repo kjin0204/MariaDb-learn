@@ -1,0 +1,1 @@
+-- type casting 데이터 형태 변환
